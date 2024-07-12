@@ -1,0 +1,20 @@
+.bdf{
+    background-image: linear-gradient(rgba(235, 34, 34, 0.4), rgba(235, 34, 34, 0.4)), url(img/images\ \(6\).jpeg);
+    background-position: center;
+    background-size:cover ;
+}
+
+
+.count{
+padding: 100px 0;
+    background-image: linear-gradient(rgba(235, 34, 34, 0.4), rgba(235, 34, 34, 0.4)), url(img/invitation-2508607__340.jpg);
+    background-position: center;
+    background-size:cover ;
+}
+
+.cont-us{
+    margin-top: 200px;
+}
+
+
+  
